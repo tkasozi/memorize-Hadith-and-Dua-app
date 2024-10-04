@@ -1,10 +1,10 @@
 Introduction
 
-[Your App Name] is a mobile application designed to [Briefly describe the app's purpose]. We are committed to protecting your privacy and ensuring that your personal information is handled securely.
+MemoryMap - Hadith & Dua is a mobile application designed to assist users in memorizing Hadith and Dua (Islamic prayers and sayings). The app offers a user-friendly interface with Arabic text, making it easy for users to learn and practice these important Islamic texts. We are committed to protecting your privacy and ensuring that your personal information is handled securely.
 
 Information We Do Not Collect   
 
-[Your App Name] does not collect any personal information from users. We do not track your activities, collect your location data, or store any identifiable information about you.
+MemoryMap - Hadith & Dua does not collect any personal information from users. We do not track your activities, collect your location data, or store any identifiable information about you.
 
 Third-Party Advertising
 
@@ -22,5 +22,5 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].   
+If you have any questions about this Privacy Policy, please contact us at talik.aziizi@gmail.com   
 
